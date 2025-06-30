@@ -1,3 +1,4 @@
 kafka data warehouse
 Aws Glue athena(Querry editor)[D[D[D[D[D[D[D[D[C[E[C[C[C[C[C[C
 Redshift AWS data warehouse
+def fun(): bcz Pinal mam told
